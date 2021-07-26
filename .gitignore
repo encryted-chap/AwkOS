@@ -1,0 +1,8 @@
+.bashrc
+./link.ld
+./grubbuild.sh
+./RMbuild.sh
+Sector
+Todo
+.vscode
+*.iso
